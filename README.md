@@ -1,7 +1,9 @@
 <h1> Yhan Oliveira </h1>
 <h2> About: </h2>
-<p> Hello visitor, I am Yhan Oliveira, I am 17 years old and I am in the last year of the high school. Currently Studying HTML5, CSS3 and JavaScript. </p>
-<h2> Technologies: </h2>
+<p> Olá, meu nome é Yhan Oliveira, tenho 17 anos e estou no ultimo ano do ensino médio. Atualmente estudando sobre HTML5, CSS e Javascript.
+<h2> Tecnologias: </h2>
 <ul>
-<li> HTML5, CSS3, Javascript;</li>
+  <li> HTML5</li>
+  <li> CSS3</li>
+  <li> Javascript</li>
 </ul>
