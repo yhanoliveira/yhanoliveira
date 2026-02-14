@@ -1,14 +1,11 @@
 <h1> Yhan Oliveira </h1>
-<h2> Sobre mim: </h2>
-<p> Olá! Eu sou Yhan, um estudante de desenvolvimento front-end de 22 anos. Venho me dedicando ao aprendizado de tecnologias como JavaScript e React
-
-Sou entusiasta por jogos, automobilismo e música, o que me proporciona uma visão criativa. Sou otimista, perseverante e esforçado, sempre pronto para enfrentar novos desafios e aprender continuamente.
 
 <h2> Tecnologias: </h2>
 <ul>
   <li> HTML5</li>
   <li> CSS3</li>
   <li> Javascript</li>
+  <li> Git</li>
 </ul>
 <br clear="both">
 
