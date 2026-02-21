@@ -5,7 +5,6 @@
   <li> HTML5</li>
   <li> CSS3</li>
   <li> Javascript</li>
-  <li> Git</li>
 </ul>
 <br clear="both">
 
