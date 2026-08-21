@@ -15,8 +15,6 @@
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **BTI (Bacharelado em Tecnologia da Informação)** na UNIVESP
-- 🔧 Trabalhando full-time por enquanto, mas com foco total em virar dev
-- 🐧 Uso **Arch Linux** no dia a dia (btw), atualmente rodando **Hyprland**
 
 ---
 
@@ -30,12 +28,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-
----
-
-### 🎯 Objetivo
-
-Buscando minha primeira oportunidade como **dev júnior / estagiário**, com foco em front-end e, aos poucos, expandindo pro back-end com Node, Express e Prisma.
 
 ---
 
