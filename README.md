@@ -4,12 +4,6 @@
   Estudante de TI migrando pro mundo dev, um <code>git commit</code> de cada vez.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BTI-UNIVESP-cyan?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-btw-9cf?style=for-the-badge" />
-</p>
-
 ---
 
 ### 🚀 Sobre mim
